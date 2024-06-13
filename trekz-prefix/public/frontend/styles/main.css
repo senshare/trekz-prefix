@@ -1,0 +1,204 @@
+body {
+  font-family: "Assistant", sans-serif;
+  color: #071C4D;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #071c4d;
+}
+.navbar .navbar-nav .nav-link.active {
+  font-weight: bold;
+}
+
+.btn-navbar-right {
+  width: 130px;
+  height: 70px;
+  margin-top: 0;
+  margin-bottom: -8px;
+  margin-right: -18px;
+  border-radius: 0;
+}
+
+.btn-login {
+  background-color: #071c4d;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+}
+.btn-login:hover {
+  color: #fff;
+}
+
+header {
+  padding: 180px 0 165px;
+  margin-top: -70px;
+  background-image: url("../images/header_nomads.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header h1, header p, header a {
+  color: #fff !important;
+}
+header .title {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 50px;
+}
+header .sub-title {
+  font-family: "Assistant", sans-serif;
+  font-size: 22px;
+}
+header .btn-get-started {
+  width: 170px;
+  height: 45px;
+  font-size: 20px;
+  background-color: #FF9E53;
+}
+
+.section-stats {
+  margin-top: -50px;
+}
+.section-stats .stats-detail {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 54px;
+  background-color: #fff;
+}
+.section-stats .stats-detail h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+.section-stats .stats-detail p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.section-popular {
+  min-height: 540px;
+  margin-top: -50px;
+  padding-top: 150px;
+  background-color: #051334;
+}
+.section-popular h2, .section-popular p {
+  color: #ffffff;
+}
+.section-popular h2 {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 40px;
+}
+.section-popular p {
+  font-size: 18px;
+}
+
+.section-popular-content {
+  margin-top: -200px;
+  margin-bottom: 100px;
+}
+.section-popular-content .card-travel {
+  min-height: 380px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.section-popular-content .card-travel .travel-location {
+  font-family: "Assistant", sans-serif;
+  font-size: 26px;
+  color: #ffffff;
+}
+.section-popular-content .card-travel .travel-country {
+  font-family: "Assistant", sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+}
+.section-popular-content .card-travel .btn-travel-details {
+  background-color: #FF9E53;
+  font-size: 16px;
+}
+
+.section-networks h2 {
+  font-family: "Playfair Display", sans-serif;
+  font-family: 40px;
+}
+.section-networks p {
+  font-size: 18px;
+}
+.section-networks img {
+  width: 168px;
+}
+
+.section-testimonials {
+  min-height: 400px;
+  margin-top: 50px;
+  background: linear-gradient(#fff 0%, #cecee5 100%);
+}
+
+.section-testimonials-content {
+  margin-top: -250px;
+}
+.section-testimonials-content .card-testimonial {
+  background-color: #FFFFFF;
+  min-height: 380px;
+  width: 350px;
+  border: 1px solid #e3e3e3;
+  border-radius: 11px 11px 0 0;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.section-testimonials-content .card-testimonial .testimonial-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
+.section-testimonials-content .card-testimonial .testimonial-name {
+  font-size: 22px;
+  font-weight: normal;
+  padding-top: 10px;
+}
+.section-testimonials-content .card-testimonial .testimonial-quote {
+  font-size: 26px;
+  font-weight: 200;
+}
+.section-testimonials-content .testimonial-footer {
+  background-color: #ffffff;
+  border: 1px solid #e3e3e3;
+  border-radius: 0 0 11px 11px;
+  width: 350px;
+}
+.section-testimonials-content .testimonial-footer p {
+  margin-bottom: 0;
+}
+.section-testimonials-content .btn-get-started {
+  width: 170px;
+  height: 45px;
+  font-size: 20px;
+  background-color: #FF9E53;
+  color: #fff;
+}
+.section-testimonials-content .btn-help {
+  width: 170px;
+  height: 45px;
+  font-size: 20px;
+  background-color: #F2F2F2;
+  color: #C3C3C3;
+}
+
+.section-footer h5 {
+  font-size: 22px;
+  font-weight: 400;
+}
+.section-footer ul li a {
+  font-size: 18px;
+  color: #071C4D;
+}
+
+.detail-header {
+  width: 310px;
+  background-color: #E4E6EB;
+  margin-top: -70px;
+}/*# sourceMappingURL=main.css.map */

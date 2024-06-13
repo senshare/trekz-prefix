@@ -1,0 +1,59 @@
+body {
+  font-family: 'Assistant', sans-serif;
+  color: #071C4D;
+}
+
+.section-background .row {
+  min-height: 120vh;
+
+  .gray-background {
+    background-color: #E4E6EB;
+  }
+}
+
+.section-main {
+  margin-top: -110vh;
+
+  .left-side {
+    h1 {
+      font-family: 'Playfair Display', sans-serif;
+      font-size: 50px;
+    }
+
+    .mini-gallery {
+      .row {
+        row-gap: 10px;
+
+        .short-image {
+          height: 150px;
+        }
+
+        .long-image {
+          height: 300px;
+        }
+      }
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .right-side {
+    .card-login {
+      width: 400px;
+      background-color: #FFFFFF;
+      border-radius: 11px;
+      border: 1px solid #e3e3e3;
+      padding: 20px 5px 20px 5px;
+  
+      button {
+        border: 0;
+        background-color: #FF9E53;
+        color: #FFFFFF;
+        font-size: 20px;
+        font-weight: 400;
+      }
+    }
+  }
+}
