@@ -1,0 +1,28 @@
+body {
+  font-family: "Assistant", sans-serif;
+  color: #071C4D;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.section-success {
+  height: 90vh;
+}
+.section-success h1 {
+  font-weight: 600;
+  font-size: 26px;
+  color: #071C4D;
+}
+.section-success p {
+  font-weight: 500;
+  font-size: 18px;
+  color: #B1B1B1;
+}
+.section-success .btn-homepage {
+  background-color: #071C4D;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+}/*# sourceMappingURL=success-checkout.css.map */
